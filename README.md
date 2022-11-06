@@ -28,7 +28,7 @@ Hey Bioinformatics aficionado :wave:
 
 ## Who should attend?
 
-The workshop Moi University students who are interested in learning Bioinformatics skills.
+The workshop targets Moi University students who are interested in learning Bioinformatics skills.
 
 ## Training topics
 
