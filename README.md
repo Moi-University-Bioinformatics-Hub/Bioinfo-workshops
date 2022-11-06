@@ -38,6 +38,7 @@ The workshop targets Moi University students who are interested in learning Bioi
 - Navigating file system
 - Redirection
 - Writing scripts
+- Project organization
 
 
 
