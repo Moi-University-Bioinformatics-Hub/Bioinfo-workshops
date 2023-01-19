@@ -1,4 +1,4 @@
-# Introduction to the UNIX command line
+# Introduction to Basics of Bioinformatics
 -----------------------------------------
 
 Hey Bioinformatics aficionado :wave:
